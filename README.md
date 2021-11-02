@@ -13,3 +13,6 @@ Skills: TYPESCRIPT / REACT / REDUX / NODE / EXPRESS / MONGODB / POSTGRESQL / MYS
 - 🔭 I’m currently getting Full Stack Trainning From Integrify. 
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jahedurrahman125) 
+
+
