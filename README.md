@@ -5,9 +5,7 @@
 Skills: TYPESCRIPT / REACT / REDUX / NODE / EXPRESS / MONGODB / POSTGRESQL / MYSQL/ DJANGO/ FLASK / JS / PYTHON / HTML / CSS 
 
 
-- 🔭 I’m currently working as a Full Stack Developer in Integrify
-
-- 🌱 I’m currently learning **Advance Full Stack practice and knowledges**
+- 🔭 I’m currently working as a Full Stack Developer in Telus International.
 
 - 💬 Ask me about **react, node, python, typescript, fastapi, scss, javascript etc.**
 
