@@ -7,7 +7,7 @@ Skills: TYPESCRIPT / REACT / REDUX / NODE / EXPRESS / MONGODB / POSTGRESQL / Fas
 
 - 🔭 I’m currently working as a Full Stack Developer in Telus International.
 
-- 💬 Ask me about **react, node, python, typescript, fastapi, scss, javascript etc.**
+- 💬 Ask me about **node, python, typescript, fastapi, scss, javascript etc.**
 
 - 📫 Reach me **jahed0003@gmail.com**
 
