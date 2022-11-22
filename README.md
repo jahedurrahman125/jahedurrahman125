@@ -5,7 +5,7 @@
 Skills: TYPESCRIPT / REACT / REDUX / NODE / EXPRESS / MONGODB / POSTGRESQL / FastApi / JS / PYTHON / HTML / CSS 
 
 
-- 🔭 I’m currently working as a Full Stack Developer in Telus International.
+- 🔭 I’m currently working as a Full Stack Software Engineer in Telus International.
 
 - 💬 Ask me about **react, node, python, typescript, fastapi, scss, javascript etc.**
 
