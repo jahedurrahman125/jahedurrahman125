@@ -1,107 +1,234 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Md Jahedur Rahman</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | MERN & FARM Specialist | Cloud & DevOps Enthusiast</h3>
+<!-- =============================== -->
+<!--          HEADER                 -->
+<!-- =============================== -->
+
+<h1 align="center">Hi 👋, I'm Jahedur Rahman</h1>
+
+<h3 align="center">
+Software Engineer • Python • FastAPI • Microservices • Kubernetes • React • AWS
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;MERN+%7C+FARM+Stack+Developer;AWS+%7C+Azure+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Scalable+Web+Applications" />
+Building scalable cloud-native applications and distributed systems.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Software+Engineer;Python+Backend+Engineer;FastAPI+%7C+Microservices+%7C+Cloud;React+%7C+TypeScript+%7C+AWS;Building+Scalable+Production+Systems" />
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Software Engineer with 5+ years of industry experience in Finland, delivering scalable, cloud-ready, enterprise-grade applications
-- 🌍 Based in Tampere, Finland
-- 🎓 MSc in Information Technology – University of Eastern Finland
-- ☁️ Cloud enthusiast (AWS & Azure fundamentals)
-- 🐳 DevOps-friendly developer (Docker, Jenkins, GitLab CI/CD)
-- 💬 Ask me about **React, Node, TypeScript, Python, FastAPI, AWS**
+I'm a Software Engineer with **4+ years of professional experience** building scalable backend systems, cloud-native applications, and distributed microservices.
 
----
+At **TELUS Digital**, I developed production systems powering AI-driven platforms using Python, FastAPI, React, PostgreSQL, MongoDB, RabbitMQ, Kubernetes, Docker, and AWS.
 
-## 🛠 Tech Stack
+I enjoy designing clean software architecture, optimizing performance, solving complex backend problems, and building reliable systems that scale.
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass)
+📍 Tampere, Finland
 
-### 🧠 Backend
-![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab)
+🎓 Master's in Information Technology  
+University of Eastern Finland
 
 ---
 
-## 💼 Professional Experience
+# 🚀 Professional Experience
 
-### 🏢 TELUS International AI (Finland)
-**Full Stack Software Engineer** | Jan 2022 – Jan2026
-- Developed internal enterprise-scale web applications  
-- Worked on DVG Marketplace (E-commerce platform)  
-- GOAL – EdTech platform  
-- OHD – Organizational Health Assessment  
-- Applied 2D Image Processing for Bottle Detection  
+## TELUS Digital AI Data Solutions
 
-### 🎓 Integrify (Finland)
-Full Stack Developer Trainee (MERN + AWS)
+**Software Engineer**
+
+📅 January 2022 – January 2026
+
+### Highlights
+
+- Designed and maintained **10+ Python (FastAPI) microservices**
+- Built REST and GraphQL APIs for AI workflow platforms
+- Reduced API latency through query optimization and indexing
+- Developed asynchronous messaging using RabbitMQ
+- Optimized PostgreSQL and MongoDB performance
+- Containerized services using Docker and Kubernetes
+- Worked across backend, frontend, DevOps, QA, and Product teams
+- Built scalable cloud-native applications supporting millions of users
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahedurrahman125&show_icons=true&theme=tokyonight" />
-</p>
+## Backend
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahedurrahman125&theme=tokyonight" />
-</p>
+<p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahedurrahman125&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,graphql"/>
+
 </p>
 
 ---
 
-## 🏆 Achievements & Focus
+## Frontend
 
-- ⚡ Scalable Full-stack Architectures  
-- 🔐 Secure REST & GraphQL APIs  
-- ☁️ Cloud-native Deployments  
-- 🐳 Containerized Microservices  
-- 📈 Performance Optimization  
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux"/>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ejahed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Md%20Jahedur%20Rahman-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:jahed0003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jahed0003%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
 </p>
 
 ---
 
-⭐️ From [jahedurrahman125](https://github.com/jahedurrahman125)
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+
+</p>
+
+BigQuery
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,jenkins"/>
+
+</p>
+
+RabbitMQ
+
+CI/CD
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 Crowd Management Platform (CMP)
+
+Enterprise AI workflow platform built using microservices architecture.
+
+### Technologies
+
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- MongoDB
+- RabbitMQ
+- Kubernetes
+- Docker
+- AWS
+- GraphQL
+
+---
+
+## 🎯 Goal
+
+Educational platform featuring secure backend APIs and responsive frontend interfaces.
+
+### Technologies
+
+- Nodejs
+- React
+- MongoDB
+
+GitHub Repository
+
+👉 https://github.com/jahedurrahman125/Goal-Self-directionManager
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jahedurrahman125&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jahedurrahman125&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahedurrahman125&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 Core Expertise
+
+✅ Python
+
+✅ FastAPI
+
+✅ Microservices
+
+✅ REST APIs
+
+✅ GraphQL
+
+✅ PostgreSQL
+
+✅ MongoDB
+
+✅ RabbitMQ
+
+✅ Docker
+
+✅ Kubernetes
+
+✅ AWS
+
+✅ React
+
+✅ TypeScript
+
+✅ Performance Optimization
+
+✅ Distributed Systems
+
+---
+
+# 🌱 Currently Learning
+
+- AI Engineering
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Kubernetes Best Practices
+- System Design
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ejahed">
+
+<img src="https://img.shields.io/badge/LinkedIn-Jahed%20Rahman-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:jahed0003@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
